@@ -7,6 +7,12 @@ import Link from "next/link";
 import { Suspense } from "react";
 import Loading from "../../loading";
 
+export async function generateStaticParams() {
+  return dados.fones.map((fone) => ({
+    id: fone.id,
+  }));
+}
+
 export default function page({ params }) {
   const fone = dados.fones.find((item) => item.id === params.id); // Find the ticket by ID
 
