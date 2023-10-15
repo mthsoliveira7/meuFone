@@ -14,7 +14,7 @@ export async function generateStaticParams() {
 }
 
 export default function page({ params }) {
-  const fone = dados.fones.find((item) => item.id === params.id); // Find the ticket by ID
+  const fone = dados.fones.find((item) => item.id === params.id);
 
   return (
     <>
