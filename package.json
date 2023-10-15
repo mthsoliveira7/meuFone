@@ -5,14 +5,13 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "NEXT_SHARP_PATH=\"/tmp/node_modules/sharp\" next start",
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "next": "13.5.4",
     "react": "^18",
-    "react-dom": "^18",
-    "sharp": "^0.32.6"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "20.8.6",
