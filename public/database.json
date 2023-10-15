@@ -1,0 +1,390 @@
+{
+  "fones": [
+    {
+      "id": "01",
+      "img": "https://i.ibb.co/fFmWhgg/apple-airpodspro.png",
+      "tipo": "Over-Ear",
+      "modelo": "AirPods Pro",
+      "marca": "Apple",
+      "descricao": "Os AirPods Pro são a expressão máxima da qualidade de áudio e tecnologia em fones de ouvido premium. Com cancelamento de ruído ativo de última geração, proporcionam uma experiência sonora imersiva, ideal para audiófilos e amantes da música.",
+      "material": "metal",
+      "cor": "preto",
+      "preco": 899.99
+    },
+    {
+      "id": "02",
+      "img": "https://i.ibb.co/kXHSmJ0/qcy-HT05.png",
+      "tipo": "In-Ear",
+      "modelo": "HT05",
+      "marca": "QCY",
+      "descricao": "Os fones de ouvido QCY HT05 oferecem uma experiência sonora extraordinária em um formato compacto e confortável. Projetados para se encaixar perfeitamente nos seus ouvidos, esses fones proporcionam qualidade de som nítida e imersiva.",
+      "material": "metal",
+      "cor": "branco",
+      "preco": 79.99
+    },
+    {
+      "id": "03",
+      "img": "https://i.ibb.co/bWjSz2X/qcy-t20.png",
+      "tipo": "On-Ear",
+      "modelo": "T20",
+      "marca": "QCY",
+      "descricao": "Os fones de ouvido QCY T20 são perfeitos para acompanhar suas atividades esportivas com estilo e qualidade sonora excepcional. Projetados para resistir ao suor e à água, esses fones garantem que a música continue tocando, não importa o quão intenso seja o treino.",
+      "material": "plástico",
+      "cor": "preto",
+      "preco": 149.99
+    },
+    {
+      "id": "04",
+      "img": "https://i.ibb.co/ZTYF63d/apple-airpods.png",
+      "tipo": "Over-Ear",
+      "modelo": "AirPods",
+      "marca": "Apple",
+      "descricao": "Os AirPods da Apple são uma obra-prima da engenharia de áudio, projetados para oferecer uma experiência sonora excepcional. Seu design circumaural proporciona isolamento acústico, permitindo que você mergulhe na música sem distrações.",
+      "material": "metal",
+      "cor": "Branco",
+      "preco": 399.99
+    },
+    {
+      "id": "05",
+      "img": "https://i.ibb.co/yY0fkpP/beats-studiopro.png",
+      "tipo": "Headset",
+      "modelo": "Beats Studio Buds+",
+      "marca": "Beats by Dre",
+      "descricao": "Os Beats Studio Buds da Beats by Dre são a combinação perfeita de estilo, desempenho e qualidade de som. Projetados para se encaixar com perfeição nos seus ouvidos, esses fones intra-auriculares oferecem uma experiência sonora imersiva com graves profundos e agudos cristalinos.",
+      "material": "plástico",
+      "cor": "preto",
+      "preco": 659.99
+    },
+    {
+      "id": "06",
+      "img": "https://i.ibb.co/Wsf3kKG/beats-studiobuds.png",
+      "tipo": "Over-Ear",
+      "modelo": "Beats Studio Pro",
+      "marca": "Beats by Dre",
+      "descricao": "Os Beats Studio Pro da Beats by Dre são o ápice da excelência sonora e do estilo em fones de ouvido over-ear. Com cancelamento de ruído ativo avançado, proporcionam uma experiência sonora imersiva que redefine o padrão de qualidade.",
+      "material": "metal",
+      "cor": "vermelho",
+      "preco": 499.99
+    },
+    {
+      "id": "07",
+      "img": "https://i.ibb.co/2FFqbPb/beats-fitpro.png",
+      "tipo": "In-Ear",
+      "modelo": "Beats Fit Pro",
+      "marca": "Beats by Dre",
+      "descricao": "Os Beats Studio Fit da Beats by Dre são o equilíbrio perfeito entre estilo, conforto e qualidade sonora. Com um design over-ear que envolve seus ouvidos de forma luxuosa, esses fones oferecem uma experiência sonora imersiva.",
+      "material": "plástico",
+      "cor": "preto",
+      "preco": 129.99
+    },
+    {
+      "id": "08",
+      "img": "https://i.ibb.co/tpFqMSL/beats-solopro.png",
+      "tipo": "Headset",
+      "modelo": "Beats Solo Pro",
+      "marca": "Beats by Dre",
+      "descricao": "Os Beats Solo Pro da Beats by Dre são a personificação da elegância e qualidade sonora em fones de ouvido on-ear. Com o aclamado cancelamento de ruído ativo Pure ANC, proporcionam uma experiência sonora excepcional.",
+      "material": "plástico",
+      "cor": "Caqui",
+      "preco": 199.99
+    },
+    {
+      "id": "09",
+      "img": "https://i.ibb.co/2cS1Ppz/sony-linkbuds.png",
+      "tipo": "In-Ear",
+      "modelo": "LinkBuds S",
+      "marca": "Sony",
+      "descricao": "Os Linkbuds S da Sony são a combinação perfeita de tecnologia avançada e conforto para audição imersiva. Com um design compacto e discreto, esses fones intra-auriculares oferecem qualidade sonora excepcional com graves profundos e agudos cristalinos.",
+      "material": "plástico",
+      "cor": "azul",
+      "preco": 89.99
+    },
+    {
+      "id": "10",
+      "img": "https://i.ibb.co/5hyB5Dj/sony-WF1000-XM5.png",
+      "tipo": "Over-Ear",
+      "modelo": "WF1000XM5",
+      "marca": "Sony",
+      "descricao": "Os Sony WF1000XM5 são o epítome da harmonia entre estilo, som e conforto. Com um design minimalista e elegante, esses fones intra-auriculares oferecem uma experiência sonora excepcional, com graves profundos e agudos cristalinos que cativam seus sentidos.",
+      "material": "metal",
+      "cor": "branco",
+      "preco": 599.99
+    },
+    {
+      "id": "11",
+      "img": "https://i.ibb.co/pzhjZ2Z/sony-MDR-1-AM2-Premium.png",
+      "tipo": "Headset",
+      "modelo": "MDR-1AM2 Premium",
+      "marca": "Sony",
+      "descricao": "Os Sony MDR-1AM2 Premium são o ápice da excelência em áudio, proporcionando uma experiência sonora inigualável. Com um design over-ear que envolve seus ouvidos de forma luxuosa, esses fones entregam graves profundos e agudos cristalinos que transportam você para o coração da música.",
+      "material": "plástico",
+      "cor": "preto",
+      "preco": 109.99
+    },
+    {
+      "id": "12",
+      "img": "https://i.ibb.co/HNb49gL/bose-Quiet-Comfort-Ultra.png",
+      "tipo": "Headset",
+      "modelo": "QuietComfort Ultra",
+      "marca": "Bose",
+      "descricao": "QuietComfort Ultra: A experiência musical definitiva. Desfrute do cancelamento de ruído líder, áudio premium e conforto absoluto, imergindo-se na música como nunca antes. Seja envolvido pela pureza do som e pela tranquilidade, proporcionando um oásis de imersão em cada nota.",
+      "material": "plástico",
+      "cor": "branco",
+      "preco": 159.99
+    },
+    {
+      "id": "13",
+      "img": "https://i.ibb.co/6Hb4cDN/bose-Quiet-Comfort.png",
+      "tipo": "Headset",
+      "modelo": "QuietComfort",
+      "marca": "Bose",
+      "descricao": "Os fones QuietComfort proporcionam uma experiência sonora inigualável com cancelamento de ruído líder. Combinando conforto supremo e qualidade sonora premium, esses fones permitem que você mergulhe na música em total tranquilidade.",
+      "material": "metal",
+      "cor": "preto",
+      "preco": 199.99
+    },
+    {
+      "id": "14",
+      "img": "https://i.ibb.co/0hySqfD/multilaser-warrior-straton.png",
+      "tipo": "Headset",
+      "modelo": "Warrior Straton",
+      "marca": "Multilaser",
+      "descricao": "Os Warrior Straton são os fones ideais para os guerreiros urbanos que desejam potência sonora e durabilidade. Projetados para resistir ao ritmo acelerado da cidade, esses fones oferecem um som poderoso que energiza seus sentidos.",
+      "material": "couro",
+      "cor": "Preto/Azul",
+      "preco": 249.99
+    },
+    {
+      "id": "15",
+      "img": "https://i.ibb.co/k881HYv/jbl-Tune-520-BT.png",
+      "tipo": "Headset",
+      "modelo": "Tune 520BT",
+      "marca": "JBL",
+      "descricao": "Os Tune 520BT são fones Bluetooth que combinam estilo e praticidade. Com qualidade sonora impressionante e conexão sem fio, esses fones permitem que você sintonize sua música favorita com facilidade.",
+      "material": "plástico",
+      "cor": "Lilás",
+      "preco": 69.99
+    },
+    {
+      "id": "16",
+      "img": "https://i.ibb.co/CsvXkJg/jbl-quantum-800.png",
+      "tipo": "Headset",
+      "modelo": "Quantum ONE",
+      "marca": "JBL",
+      "descricao": "Os Quantum ONE são fones de alta tecnologia projetados para audiófilos e gamers. Com som surround imersivo e recursos avançados, eles proporcionam uma experiência de áudio sem igual, onde cada detalhe importa.",
+      "material": "plástico",
+      "cor": "preto",
+      "preco": 129.99
+    },
+    {
+      "id": "17",
+      "img": "https://i.ibb.co/KxzdwwF/jbl-Jr310-BT.png",
+      "tipo": "Headset",
+      "modelo": "Jr310BT",
+      "marca": "JBL",
+      "descricao": "Os Jr310BT são fones sem fio especialmente projetados para crianças. Com controle de volume seguro e um design divertido, esses fones garantem que os pequenos desfrutem da música com segurança.",
+      "material": "metal",
+      "cor": "verde",
+      "preco": 349.99
+    },
+    {
+      "id": "18",
+      "img": "https://i.ibb.co/vPg7pFJ/jbl-tour-one-m2.png",
+      "tipo": "Headset",
+      "modelo": "Tour One M2",
+      "marca": "JBL",
+      "descricao": "Os Tour One M2 são fones de viagem premium, ideais para os amantes da música em movimento. Com cancelamento de ruído ativo e qualidade sonora excepcional, eles transformam qualquer viagem em uma experiência musical inesquecível.",
+      "material": "plástico",
+      "cor": "prata",
+      "preco": 169.99
+    },
+    {
+      "id": "19",
+      "img": "https://i.ibb.co/VY8g1Jk/jbl-wave-buds.png",
+      "tipo": "On-Ear",
+      "modelo": "Wave Buds",
+      "marca": "JBL",
+      "descricao": "Os Wave Buds são fones intra-auriculares que oferecem um som claro e nítido em um pacote compacto. Com design elegante e ajuste confortável, eles são perfeitos para audiófilos que estão sempre em movimento.",
+      "material": "Plástico",
+      "cor": "azul",
+      "preco": 119.99
+    },
+    {
+      "id": "20",
+      "img": "https://i.ibb.co/r3PJPT7/jbl-tour-pro-tws.png",
+      "tipo": "In-Ear",
+      "modelo": "Tour Pro+ TWS",
+      "marca": "JBL",
+      "descricao": "Os Tour Pro+ TWS são fones sem fio de alta qualidade, projetados para os viajantes modernos. Com áudio de alto desempenho e conectividade Bluetooth confiável, eles são o companheiro perfeito para suas aventuras.",
+      "material": "Plástico",
+      "cor": "Preto",
+      "preco": 99.99
+    },
+    {
+      "id": "21",
+      "img": "https://i.ibb.co/FHM6DSN/Momentum-3-sennheiser.png",
+      "tipo": "Headset",
+      "modelo": "Momentum 3 Wireless",
+      "marca": "Sennheiser",
+      "descricao": "Os Momentum 3 Wireless oferecem uma experiência sonora de alta qualidade com tecnologia sem fio de última geração. Com design luxuoso, cancelamento de ruído avançado e áudio imersivo, esses fones proporcionam uma jornada musical excepcional.",
+      "material": "plástico",
+      "cor": "prata",
+      "preco": 129.99
+    },
+    {
+      "id": "22",
+      "img": "https://i.ibb.co/zZsRjbq/Jabra-Elite-Active-75t-920x920.png",
+      "tipo": "Over-Ear",
+      "modelo": "Elite 75t",
+      "marca": "Jabra",
+      "descricao": "Os Elite 75t são fones sem fio compactos e poderosos que se destacam pelo ajuste personalizado e qualidade sonora surpreendente. Com design elegante e resistência à água, eles são ideais para um estilo de vida ativo.",
+      "material": "metal",
+      "cor": "preto",
+      "preco": 349.99
+    },
+    {
+      "id": "23",
+      "img": "https://i.ibb.co/sJ69Cqn/audio-technica-ATH-M50x.png",
+      "tipo": "Headset",
+      "modelo": "ATH-M50x",
+      "marca": "Audio-Technica",
+      "descricao": "Os ATH-M50x são fones de estúdio de referência, reconhecidos pela sua qualidade sonora excepcional e conforto duradouro. Ideais para profissionais da música e audiófilos, esses fones proporcionam uma experiência auditiva precisa.",
+      "material": "plástico",
+      "cor": "Preto/Turquesa",
+      "preco": 169.99
+    },
+    {
+      "id": "24",
+      "img": "https://i.ibb.co/Mft17cY/beyerdynamic-dt-990-black-special-edition-perspective-transparent-1.png",
+      "tipo": "Headset",
+      "modelo": "DT 990 Pro",
+      "marca": "Beyerdynamic",
+      "descricao": "Os DT 990 Pro são fones de ouvido semiabertos que oferecem áudio estéreo de alta resolução e conforto excepcional. Projetados para audiófilos e profissionais, esses fones permitem uma experiência sonora rica e equilibrada",
+      "material": "Plástico",
+      "cor": "preto",
+      "preco": 119.99
+    },
+    {
+      "id": "25",
+      "img": "https://i.ibb.co/CmQ7D1K/ankersoundcore-Liberty-Air-2-Pro.png",
+      "tipo": "In-Ear",
+      "modelo": "Liberty Air 2 Pro",
+      "marca": "Anker SoundCore",
+      "descricao": "Os Liberty Air 2 Pro são fones sem fio que combinam estilo e funcionalidade. Com cancelamento de ruído personalizável, qualidade sonora de alto nível e ajuste seguro, esses fones são ideais para audiófilos em movimento.",
+      "material": "Plástico",
+      "cor": "azul",
+      "preco": 99.99
+    },
+    {
+      "id": "26",
+      "img": "https://i.ibb.co/zmFzd2X/sennheiser-HD-660.png",
+      "tipo": "Headset",
+      "modelo": "HD 660 S",
+      "marca": "Sennheiser",
+      "descricao": "Os HD 660 S são fones de ouvido de alta fidelidade projetados para entusiastas da música. Com som natural e detalhado, esses fones proporcionam uma experiência sonora que revela nuances musicais nunca antes ouvidas.",
+      "material": "plástico",
+      "cor": "preto",
+      "preco": 129.99
+    },
+    {
+      "id": "27",
+      "img": "https://i.ibb.co/z7mF613/microsoft.png",
+      "tipo": "Headset",
+      "modelo": "Surface Headphones 2",
+      "marca": "Microsoft",
+      "descricao": "Os Surface Headphones 2 oferecem cancelamento de ruído ajustável e qualidade sonora premium. Com design elegante, controles intuitivos e conforto excepcional, eles são ideais para quem busca produtividade e entretenimento.",
+      "material": "metal",
+      "cor": "branco",
+      "preco": 349.99
+    },
+    {
+      "id": "28",
+      "img": "https://i.ibb.co/X30nd7B/xiaomi-buds-4-pro-gold-1-1600px.png",
+      "tipo": "In-Ear",
+      "modelo": "Redmi Buds 4 Pro",
+      "marca": "Xiaomi",
+      "descricao": "Os Redmi Buds 4 Pro são fones de ouvido acessíveis com um desempenho surpreendente. Com conectividade estável e som equilibrado, esses fones proporcionam uma experiência de audição acessível.",
+      "material": "plástico",
+      "cor": "dourado",
+      "preco": 169.99
+    },
+    {
+      "id": "29",
+      "img": "https://i.ibb.co/vscJ68X/XIAOMI-Wireless-Ear-Headphone-Wireless-Bluetooth-Music-Gaming-Headset-with-Stereo-Sound-with-Mic-3-5.png",
+      "tipo": "Headset",
+      "modelo": "Mi True Wireless",
+      "marca": "Xiaomi",
+      "descricao": "Os Mi True Wireless são fones compactos e elegantes com áudio de alta qualidade e conectividade sem fio. Perfeitos para uso diário, esses fones oferecem conforto e praticidade.",
+      "material": "Plástico",
+      "cor": "preto",
+      "preco": 119.99
+    },
+    {
+      "id": "30",
+      "img": "https://i.ibb.co/0VBMTFV/Xiaomi-Redmi-Buds-3-Fone-de-ouvido-sem-fio-Bluetooth-5-2-fone-TWS.png",
+      "tipo": "In-Ear",
+      "modelo": "Redmi Buds 3",
+      "marca": "Xiaomi",
+      "descricao": "Os Redmi Buds 3 são fones de ouvido sem fio que oferecem um som nítido e design ergonômico. Com controles intuitivos e resistência ao suor, eles são ideais para uso durante os treinos e atividades ao ar livre.",
+      "material": "Plástico",
+      "cor": "branco",
+      "preco": 99.99
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "foto": "https://i.ibb.co/yYsSdBW/charli.png",
+      "nome": "Charli XCX",
+      "nota": 3,
+      "estrelas": "★★★✰✰",
+      "data": "02/05/2023",
+      "texto": "O som é decente, mas o conforto de uso poderia ser melhor. Após algum tempo de uso contínuo, sinto um pouco de pressão nos ouvidos. É um fone razoável, mas a ergonomia poderia ser aprimorada."
+    },
+    {
+      "id": "2",
+      "foto": "https://i.ibb.co/MGrZkf9/kurt.png",
+      "nome": "Kurt Cobain",
+      "nota": 4,
+      "estrelas": "★★★★✰",
+      "data": "08/06/2023",
+      "texto": "Gosto muito do meu fone de ouvido, mas a bateria poderia ser um pouco melhor. Eu notei que ela dura um pouco menos do que eu esperava. No entanto, em termos de qualidade de som e conforto, estou satisfeito. Apenas desejaria uma duração de bateria um pouco maior."
+    },
+    {
+      "id": "3",
+      "foto": "https://i.ibb.co/S0PQ8NH/serj.png",
+      "nome": "Serj Tankian",
+      "nota": 5,
+      "estrelas": "★★★★★",
+      "data": "10/06/2023",
+      "texto": "Estou absolutamente maravilhado com este fone de ouvido! A qualidade sonora é excepcional, com graves profundos e agudos cristalinos. Além disso, ele é super confortável de usar por longos períodos. Sem dúvida, a melhor compra que já fiz em termos de fones de ouvido. Recomendo a todos os amantes de música!"
+    },
+    {
+      "id": "4",
+      "foto": "https://i.ibb.co/cJdV3jD/jotaro.png",
+      "nome": "Jotaro Kujo",
+      "nota": 3,
+      "estrelas": "★★★✰✰",
+      "data": "02/08/2023",
+      "texto": "Este é um fone de ouvido mediano pelo preço. Não é excepcional, mas também não é ruim. A qualidade de som é aceitável, mas faltam alguns recursos avançados. No geral, ele faz o trabalho."
+    },
+    {
+      "id": "5",
+      "foto": "https://i.ibb.co/9tTJR4H/luffy.png",
+      "nome": "Monkey D. Luffy",
+      "nota": 1,
+      "estrelas": "★✰✰✰✰",
+      "data": "08/10/2023",
+      "texto": "Estou extremamente decepcionado com este fone de ouvido. A qualidade do som é ruim, com distorções notáveis. Além disso, ele parou de funcionar completamente após apenas algumas semanas de uso. Não recomendo este produto a ninguém. Fique longe!"
+    },
+    {
+      "id": "6",
+      "foto": "https://i.ibb.co/YcDqBtW/walter.png",
+      "nome": "Walter White",
+      "nota": 5,
+      "estrelas": "★★★★★",
+      "data": "10/10/2023",
+      "texto": "Não posso expressar o quanto estou feliz com meu novo fone de ouvido. O design elegante e moderno combina perfeitamente com a qualidade de som incrível. Com a tecnologia de cancelamento de ruído, posso me perder na música sem interrupções. Este fone superou todas as minhas expectativas!"
+    }
+  ]
+}
