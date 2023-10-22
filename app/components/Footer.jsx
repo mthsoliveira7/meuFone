@@ -53,7 +53,7 @@ export default function Footer() {
         <p className="text-center">
           Interface criada e codada por{" "}
           <a
-            href="https://www.linkedin.com/in/mthsoliveira7/"
+            href="https://mths-portfolio-website.pages.dev/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white font-bold"
