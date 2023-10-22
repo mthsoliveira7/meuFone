@@ -1,13 +1,18 @@
 <h1 align="center">
   meuFone
 </h1>
-<a align="center">https://meu-fone.vercel.app/</a>
+<p align="center">https://meu-fone.vercel.app/</p>
 
 A meuFone é um e-commerce fictício de venda de fones de ouvido, desenvolvido com Next.js e Tailwind CSS. O projeto consiste em três páginas principais: a página inicial, que serve como a porta de entrada do site, apresentando os produtos mais populares ou recentes:
+
 ![screenshot01](https://raw.githubusercontent.com/mthsoliveira7/meuFone/master/public/screenshots/screenshot01.png)
+
 O catálogo, que lista todos os produtos disponíveis para venda:
+
 ![screenshot02](https://raw.githubusercontent.com/mthsoliveira7/meuFone/master/public/screenshots/screenshot02.png)
-E por último a página de detalhes do produto que fornece informações detalhadas sobre um produto específico, incluindo descrição, preço, imagem e avaliações:</p>
+
+E por último a página de detalhes do produto que fornece informações detalhadas sobre um produto específico, incluindo descrição, preço, imagem e avaliações:
+
 ![screenshot03](https://raw.githubusercontent.com/mthsoliveira7/meuFone/master/public/screenshots/screenshot03.png)
 
 ## Stack Usado
