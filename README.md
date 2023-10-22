@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  meuFone
+</h1>
 
-## Getting Started
+<p>A meuFone é um e-commerce fictício de venda de fones de ouvido, desenvolvido com Next.js e Tailwind CSS. O projeto consiste em três páginas principais: a página inicial, que serve como a porta de entrada do site, apresentando os produtos mais populares ou recentes:</p>
+![screenshot01](https://raw.githubusercontent.com/mthsoliveira7/meuFone/master/public/screenshots/screenshot01.png)
+<p>O catálogo, que lista todos os produtos disponíveis para venda:</p>
+![screenshot02](https://raw.githubusercontent.com/mthsoliveira7/meuFone/master/public/screenshots/screenshot02.png)
+<p>E por último a página de detalhes do produto que fornece informações detalhadas sobre um produto específico, incluindo descrição, preço, imagem e avaliações:</p>
+![screenshot03](https://raw.githubusercontent.com/mthsoliveira7/meuFone/master/public/screenshots/screenshot03.png)
 
-First, run the development server:
+## Stack Usado
+
+- [React](https://react.dev) - Biblioteca de JavaScript para criação de interfaces de usuário interativas e componentizadas
+- [Next.js](https://nextjs.org/) - Framework do React que fornece um conjunto de ferramentas para facilitar a criação de aplicações web de alto desempenho, permitindo a renderização do lado do servidor, geração de sites estáticos
+- [Tailwind CSS](https://tailwindcss.com) - Framework de CSS orientado por utilitários para desenvolvimento rápido de interfaces de usuário
+- [Cloudflare](https://pages.cloudflare.com) - Plataforma JAMstack usada pra publicação do site.
+
+## Rodar localmente
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+$ git clone https://github.com/mthsoliveira7/meufone.git
+$ cd meufone
+$ npm install
+$ npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Figma
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Se estiver procurando pelo design do Figma, você pode encontrá-lo **[aqui](https://www.figma.com/community/file/1285285784771074425)**.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Autor
 
-## Learn More
+- [Matheus Oliveira](https://www.linkedin.com/in/mthsoliveira7/)
+- Contato: mthsoliveira7@skiff.com
 
-To learn more about Next.js, take a look at the following resources:
+## Licença
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Licenciado sob a [licença MIT](https://github.com/mthsoliveira7/guardanotas/blob/main/LICENSE).
