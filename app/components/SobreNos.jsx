@@ -33,9 +33,8 @@ export default function SobreNos() {
     >
       <div className="lg:flex-grow lg:w-1/2 flex flex-col lg:items-start lg:text-left items-center text-center">
         <h1 className="md:text-4xl text-3xl mb-4 font-bold text-white">
-          Tenha uma experiência
-          <br className="hidden lg:inline-block" />
-          sonora imersiva
+          Tenha uma experiência <br className="hidden lg:inline-block" /> sonora
+          imersiva
         </h1>
         <p className="mb-8 leading-relaxed text-lg">
           Na meuFone, nossa paixão é levar a melhor experiência sonora até você.
