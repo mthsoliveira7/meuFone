@@ -35,7 +35,7 @@ $ npm run dev
 
 ## Figma
 
-Se estiver procurando pelo design do Figma, você pode encontrá-lo **[aqui](https://media.tenor.com/CmcVmK0EC0kAAAAC/coming-soon-em-breve.gif)**.
+Se estiver procurando pelo design do Figma, você pode encontrá-lo **[aqui](https://www.figma.com/community/file/1298303959024363654/meufone)**.
 
 ## Autor
 
