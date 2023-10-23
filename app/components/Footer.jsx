@@ -51,7 +51,25 @@ export default function Footer() {
 
       <div className="flex justify-center py-4 px-8 text-base">
         <p className="text-center">
-          Interface criada e codada por{" "}
+          Interface{" "}
+          <a
+            href="https://www.figma.com/community/file/1298303959024363654/meufone"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white font-bold"
+          >
+            criada
+          </a>{" "}
+          e{" "}
+          <a
+            href="https://github.com/mthsoliveira7/meuFone"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white font-bold"
+          >
+            codada
+          </a>{" "}
+          por{" "}
           <a
             href="https://mths-portfolio-website.pages.dev/"
             target="_blank"
